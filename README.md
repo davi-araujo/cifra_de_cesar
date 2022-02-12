@@ -17,7 +17,7 @@ A cifra acontece com a rotação do alfabeto padrão para a direita ou para a es
 
 ### 2.1 Python
 
-Para que o código seja executado, é necessário ter o Python 3 instalado em sua máquina. No meu caso, utilizei a versão 3.9.10 do python. O arquivo a ser rodado se chama `tela.py`.
+Para que o código seja executado, é necessário ter o Python 3 instalado em sua máquina. No meu caso, utilizei a versão 3.9.10 do python. O arquivo a ser rodado se chama `tela.py`, mesmo arquivo que possui a tela. A função responsável por codificar e decodificar está presente no arquivo `cifra_de_cesar.py`.
 
 ### 2.2 PySimpleGUI
 
