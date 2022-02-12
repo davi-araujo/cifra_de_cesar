@@ -6,7 +6,7 @@ Este projeto tem como objetivo a implementação de um código capaz de codifica
 
 ### 1.1 Cifra de César
 
-A cifra de César é uma forma simples de criptografia em que as letras são deslocadas para o lado com base em um deslocamento pré-definido pelo usuário. Possui esse nome em homenagem ao imperador Júlio César, que o usou para se comunicar com os seus generais.
+A cifra de César é uma forma simples de criptografia em que as letras são deslocadas para o lado com base em um número pré-definido pelo usuário. Possui esse nome em homenagem ao imperador Júlio César, que o usou para se comunicar com os seus generais.
 
 A cifra acontece com a rotação do alfabeto padrão para a direita ou para a esquerda, onde as duas pessoas que estão conversando definem quanto será rotacionado. Abaixo temos um exemplo de como ficaria o alfabeto para a cifra de César rotacionado 4 posições para a esquerda:
 
@@ -17,11 +17,11 @@ A cifra acontece com a rotação do alfabeto padrão para a direita ou para a es
 
 ### 2.1 Python
 
-Para que o código seja executado, é necessário ter o Python 3 instalado em sua máquina. No meu caso, utilizei a versão 3.9.10 do python, mas acredito que o programa rode em qualquer versão do Python 3. O arquivo a ser rodado se chama `tela.py`.
+Para que o código seja executado, é necessário ter o Python 3 instalado em sua máquina. No meu caso, utilizei a versão 3.9.10 do python. O arquivo a ser rodado se chama `tela.py`.
 
 ### 2.2 PySimpleGUI
 
-A única biblioteca utilizada no projeto foi o **PySimpleGUI**, uma biblioteca capaz de gerar interfaces gráficas de maneira simples utilizando apenas Python. Para instalá-la, basta utilizar o código abaixo em seu terminal:
+A única biblioteca utilizada no projeto foi o [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/), uma biblioteca capaz de gerar interfaces gráficas de maneira simples utilizando apenas Python. Para instalá-la, basta utilizar o código abaixo em seu terminal:
 
     pip install PySimpleGUI
 
